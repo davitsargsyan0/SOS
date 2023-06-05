@@ -7,7 +7,7 @@ SOS game gameplay, with an AI-powered agent as one of the players
 SOS is a game that can be played with a pencil and paper. It is quite similar to tic-tac-toe but can have a larger grid and players in each turn can choose between “S” and“O”. Thus, the game has a much larger complexity than tic-tac-toe. While tic-tac-toe can become too predictable, SOS is guaranteed to keep players thinking about their future actions. The goal of this game is to cover the board with as many “S-O-S” formations as possible, and each formed SOS will increase the score of that particular player by 1. In SOS, there are little to no limitations for the board design. The uniqueness is in its connection with timing: the bigger the board, the longer the game will last.
 
 
-<img src="SOS_game.png" style="height: 300px">
+<img src="images/SOS_game.png" style="height: 300px">
 
 There are 4 agents are available in the gameplay
 * Random Player
@@ -25,11 +25,11 @@ There are 4 agents are available in the gameplay
 
 The beninning of the gameplay provides a **scaleable board** size and a **scaleable depth** for MiniMax agent, if *MiniMax Alpha Beta Player* is selected.
 
-<img src="sos_start.png" style="height: 300px">
+<img src="images/sos_start.png" style="height: 300px">
 
 The gameplay provides information on **percentage(%) of the nodes pruned by Alpha-Beta optimization, player scores, and current points**.
 
-<img src="sos-demo.png" style="height: 400px">
+<img src="images/sos-demo.png" style="height: 400px">
 
 Based on gameplay statistics, MiniMax Player wins in 95% of games against real people.
 
