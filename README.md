@@ -23,7 +23,7 @@ There are 4 agents are available in the gameplay
 
 **MiniMax Player** - *uses of MiniMax algorithm optimized by Alpha-Beta pruning technique accompanied by complex evaluation functions and scalable depth.*
 
-The beninning of the gameplay provides a **scaleable board** size and a **scaleable depth** for MiniMax agent, if *MiniMax Alpha Beta Player* is selected.
+The beginning of the gameplay provides a **scaleable board** size and a **scaleable depth** for MiniMax agent, if *MiniMax Alpha Beta Player* is selected.
 
 <img src="images/sos_start.png" style="height: 300px">
 
@@ -31,6 +31,6 @@ The gameplay provides information on **percentage(%) of the nodes pruned by Alph
 
 <img src="images/sos-demo.png" style="height: 400px">
 
-Based on gameplay statistics, MiniMax Player wins in 95% of games against real people.
+Based on gameplay statistics, MiniMax Player wins or draws in 95% of games against real people.
 
 
